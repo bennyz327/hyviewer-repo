@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "rules": {
+        "default": {
+            "groupBy": "namespace",
+            "target": [
+                "post_id",
+                "title"
+            ],
+            "fallback": "uncategorized"
+        },
+        "overrides": [
+            {
+                "tag_match": "creator:nope",
+                "groupBy": "time",
+                "interval": "month"
+            }
+        ]
+    }
+}

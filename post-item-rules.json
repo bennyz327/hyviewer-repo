@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "rules": {
+        "cover_candidates": [
+            "tag:meta:cover",
+            "tag:meta:thumbnail",
+            "index:0"
+        ],
+        "item_roles": {
+            "video": [
+                "filetype:video/*"
+            ],
+            "attachment": [
+                "filetype:application/*",
+                "filetype:text/*"
+            ]
+        }
+    }
+}
