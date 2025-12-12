@@ -3,8 +3,7 @@
     "rules": {
         "cover_candidates": [
             "tag:meta:cover",
-            "tag:meta:thumbnail",
-            "index:0"
+            "tag:meta:thumbnail"
         ],
         "item_roles": {
             "video": [
@@ -16,4 +15,5 @@
             ]
         }
     }
+
 }
