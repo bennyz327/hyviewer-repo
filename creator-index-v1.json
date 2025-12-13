@@ -25,8 +25,18 @@
         "urls": [
             "https://www.fanbox.cc/@gute-nacht-07"
         ]
+    },
+    {
+        "tag": "creator:kurokawa ryouichi",
+        "displayName": "黒川リョーイチ",        
+        "thumbnail_hash": "9bebefa1cdb1673e8b38dc3bc059f46632b5650d3d4c90199f10015402d8b25d",
+        "updatedAt": 1765651732000,
+        "urls": [
+            "https://www.fanbox.cc/@kurokawabind"
+        ]
     }
 ]
+
 
 
 
