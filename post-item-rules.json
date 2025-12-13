@@ -13,7 +13,21 @@
                 "filetype:application/*",
                 "filetype:text/*"
             ]
+        },
+        "sorting": {
+            "images": [
+                "namespace:page:asc",
+                "namespace:filename:desc"
+            ],
+            "videos": [
+                "namespace:page:asc",
+                "namespace:filename:desc"
+            ],
+            "others": [
+                "namespace:page:asc",
+                "namespace:filename:desc",
+                "meta:size:desc"
+            ]
         }
     }
-
 }
