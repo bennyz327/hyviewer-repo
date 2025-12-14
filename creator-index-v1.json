@@ -16,7 +16,8 @@
     {
         "tag": "creator:xipa",
         "displayName": "Xipa",
-        "thumbnail_hash": "",
+        "thumbnail_hash": "ca062cbd15b6f3b3d9bb258af1150e9b2fa91bd2668e01a857447098a7502805",
+        "banner_hash": "6c841c9cd041c54078601ac81e20f70974f3e3d26fcf12c083596f180d86a14b",
         "updatedAt": 1764958294000,
         "urls": []
     },
@@ -1687,4 +1688,5 @@
         "updatedAt": 1745942400000,
         "urls": []
     }
+
 ]
