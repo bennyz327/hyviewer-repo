@@ -7,7 +7,10 @@
                 "post id",
                 "title"
             ],
-            "fallback": "uncategorized"
+            "fallback": "uncategorized",
+            "sort_in_group": [
+                "namespace:page:asc"
+            ]
         },
         "overrides": [
             {
@@ -19,3 +22,4 @@
     }
 
 }
+
