@@ -9,7 +9,8 @@
             ],
             "fallback": "uncategorized",
             "sort_in_group": [
-                "namespace:page:asc"
+                "namespace:page:asc",
+                "namespace:filename:asc"
             ]
         },
         "overrides": [
@@ -22,4 +23,5 @@
     }
 
 }
+
 
